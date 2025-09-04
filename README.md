@@ -16,4 +16,3 @@ The model achieves **90%+ accuracy** and demonstrates the practical application 
 
 ---
 
-## 📂 Project Structure
